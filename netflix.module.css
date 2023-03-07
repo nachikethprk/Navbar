@@ -1,0 +1,29 @@
+#cc{
+background-color: black;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+width: auto;
+}
+
+#aa{
+background-color: black;
+color: white;
+
+}
+
+
+#bb{
+    background-color: red;
+    height: 50px;
+width: 90px;
+width: 120px;
+margin-right: 200px;
+margin-left: 200px;
+    }
+
+    #dd{
+        height: 50px;
+width: 120px;
+    }
